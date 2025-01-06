@@ -48,7 +48,7 @@ From the logistic regression coefficients and feature analysis there are some fa
 
 This analysis highlights that churn is influenced by clear patterns, such as having an international plan or high customer service interactions. While the SMOTE-enhanced model improved recall for churn cases, further iterations (e.g., advanced models, threshold optimization) are needed to enhance precision and overall effectiveness. Combining these insights with retention strategies can significantly reduce churn rates and improve customer satisfaction.
 ## Limitations & Next Steps
-The dataset's inherent imbalance (857 non-churn vs. 143 churn) limits the model's ability to learn patterns for churn without intervention like SMOTE or class weighting.
+The dataset's inherent imbalance limits the model's ability to learn patterns for churn without intervention like SMOTE or class weighting.
 
 The iterated model prioritized recall for churn at the expense of precision, leading to high false positives. This could result in inefficient resource allocation for retention campaigns.
 
