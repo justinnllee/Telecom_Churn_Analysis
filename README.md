@@ -68,4 +68,5 @@ Lastly, we could deploy the model in a live environment to predict churn and mea
 
 ## Sources
 Presentation: https://docs.google.com/presentation/d/1E7GlQ2_4VpIh27G2hbc_jzbMn7FHRnq3aiZCbCcFMA4/edit#slide=id.g3224e56f0ab_0_604
-[Data Source: https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset/data
+
+Data Source: https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset/data
